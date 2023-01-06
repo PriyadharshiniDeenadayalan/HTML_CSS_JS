@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>  
+for (i=1; i<=5; i++)  
+{ 
+  document.write("The value of I is "+i+ "<br/>") 
+
+}  
+</script>  
+</body>
+</html>
