@@ -1,0 +1,15 @@
+<html>
+<body>
+<script>
+function demo(a, b, c) {
+document.write(a);
+document.write("</br>");
+document.write(b);
+document.write("</br>");
+document.write(c);
+}
+var names = ['NSE', 'BSE', 'NIFTY'];
+demo.apply(null, names);
+</script>
+</body>
+</html>

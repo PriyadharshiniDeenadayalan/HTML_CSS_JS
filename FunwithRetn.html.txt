@@ -1,0 +1,14 @@
+<html>
+<body>
+<script>  
+function getInfo(){  
+return "hello RMK Students! How r u?";  
+}  
+</script>  
+<script>  
+document.write(getInfo());  
+</script>  
+</body>
+</html>
+
+ 

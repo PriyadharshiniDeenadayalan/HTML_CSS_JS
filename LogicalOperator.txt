@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>
+		
+	</title>
+</head>
+
+<body>
+	<h1 style="color: green">
+		RMK Engineering College
+	</h1>
+	
+	
+	
+	
+	
+	<script type="text/javascript">
+		
+var x=3;
+var y=7;
+var z=2;
+if (x>0 && y>0 && z>0)
+ {
+ document.write("The sign is +");
+}
+ else if (x<0 && y<0 && z>0)
+ {
+ document.write("The sign is +");
+ }
+ else if (x>0 && y<0 && z<0)
+ {
+ document.write("The sign is +");
+ }
+ else if (x<0 && y>0 && z<0)
+ {
+ document.write("The sign is +");
+ }
+else
+ {
+ document.write("The sign is -");
+ } 
+	</script>
+</body>
+
+</html>
